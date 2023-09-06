@@ -4,6 +4,7 @@
 Welcome to the "Vagrant" project! This project aims to introduce you to the world of virtualization and configuration management with a focus on Vagrant, a powerful tool for creating and managing virtual machines (VMs).
 
 #Learning Objectives
+
 1.Gain an understanding of what a virtual machine (VM) is and its significance in modern computing environments.
 
 2.Explore Vagrant, a tool designed to simplify the creation and management of virtualized development environments.
